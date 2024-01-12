@@ -1,2 +1,2 @@
 # first-java-script-assignment-submission
-Nai Vaibhav Dineshbhai
+Author - Nai Vaibhav Dineshbhai
